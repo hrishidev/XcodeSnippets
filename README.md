@@ -1,4 +1,4 @@
-# xcodeSnippets
+# Xcode Snippets
 Commonly used Xcode code Snippets
 
 1. Open Finder and Go to Folder ( cmd + shift + G )
