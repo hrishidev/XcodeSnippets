@@ -7,5 +7,6 @@ Commonly used Xcode code Snippets
 4. Restart Xcode
 5. Type snippet and access the code snippets you just added
 
-- [ ] Create a run script to paste into Xcode's Code Snippet Directory
-- [ ] Create a run script to copy from Xcode's Code Snippet Directory
+TODO:  Create run scripts for following
+- [ ] To paste into Xcode's Code Snippet Directory
+- [ ] To copy from Xcode's Code Snippet Directory
